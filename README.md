@@ -2,10 +2,10 @@
 
 ## 常用蓝图 (点击打开所在文件夹) | Common Blueprints
 
-* 金莲：[金丹戴森球蓝图](./观赏向戴森球) <br> Golden Lotus: [Golden Core Dyson Ball Blueprint] (./Watch to Dyson Ball)
-* 红莲：[红莲戴森球](./观赏向戴森球) <br> Guren: [Gurren Dyson Ball] (./Watch to Dyson Ball)
-* 最省性能的发电球: [最短框架450节点+框架+32壳面](./实用向戴森球/(目前最稀)最短框架戴森球) <br> The most performance-efficient power generation ball: [the shortest frame 450 nodes + frame + 32 shell surface] (./practical Dyson ball/(currently the rarest) shortest frame Dyson ball)
-* 最高电量的发电球: [2720极密节点戴森球](./实用向戴森球/(目前最密)2720极密节点戴森球) <br> The power generation sphere with the highest power: [2720 extremely dense node Dyson Sphere] (./practical Dyson sphere/(currently the most dense) 2720 extremely dense node Dyson sphere)
+* 金莲：[金丹戴森球蓝图](./观赏向戴森球&#32;Ornamental) <br> Golden Lotus: [Golden Core Dyson Sphere Blueprint](./观赏向戴森球&#32;Ornamental)
+* 红莲：[红莲戴森球](./观赏向戴森球&#32;Ornamental) <br> Guren: [Gurren Dyson Sphere](./观赏向戴森球&#32;Ornamental)
+* 最省性能的发电球: [最短框架450节点+框架+32壳面](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最稀)最短框架戴森球&#32;(Currently&#32;the&#32;rarest)&#32;shortest&#32;frame&#32;Dyson&#32;Sphere) <br> The most performance-efficient power generation ball: [the shortest frame 450 nodes + frame + 32 shell surface](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最稀)最短框架戴森球&#32;(Currently&#32;the&#32;rarest)&#32;shortest&#32;frame&#32;Dyson&#32;Sphere)
+* 最高电量的发电球: [2720极密节点戴森球](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最密)2720极密节点戴森球&#32;2720&#32;dense) <br> The power generation sphere with the highest power: [2720 extremely dense node Dyson Sphere](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最密)2720极密节点戴森球&#32;2720&#32;dense)
 
 ---
 
