@@ -1,12 +1,13 @@
 # 戴森球计划 戴森球蓝图 | Dyson Sphere Program Dyson Sphere Blueprint
 
+* 不同类型的戴森球蓝图需要粘贴在不同的位置，戴森球蓝图的使用方法：https://www.bilibili.com/read/cv26637315
 ## 常用蓝图 (点击打开所在文件夹) | Common Blueprints
 
 * 金莲：[金丹戴森球蓝图](./观赏向戴森球&#32;Ornamental) <br> Golden Lotus: [Golden Core Dyson Sphere Blueprint](./观赏向戴森球&#32;Ornamental)
 * 红莲：[红莲戴森球](./观赏向戴森球&#32;Ornamental) <br> Guren: [Gurren Dyson Sphere](./观赏向戴森球&#32;Ornamental)
 * 最省性能的发电球: [最短框架450节点+框架+32壳面](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最稀)最短框架戴森球&#32;(Currently&#32;the&#32;rarest)&#32;shortest&#32;frame&#32;Dyson&#32;ball) <br> The most performance-efficient power generation ball: [the shortest frame 450 nodes + frame + shell surface](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最稀)最短框架戴森球&#32;(Currently&#32;the&#32;rarest)&#32;shortest&#32;frame&#32;Dyson&#32;ball)
 * 最高电量的发电球: [2720极密节点戴森球](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最密)2720极密节点戴森球&#32;2720&#32;dense) <br> The power generation sphere with the highest power: [2720 extremely dense node Dyson Sphere](./实用向戴森球&#32;Practical&#32;Dyson&#32;Sphere/(目前最密)2720极密节点戴森球&#32;2720&#32;dense)
-* 不同类型的戴森球蓝图需要粘贴在不同的位置，戴森球蓝图的使用方法：https://www.bilibili.com/read/cv26637315
+
 ---
 
 这是游戏**戴森球计划**中的蓝图仓库，用于储存与分享来自社区的戴森球蓝图  <br> This is the blueprint repository in the game **Dyson Sphere Program**, used to store and share Dyson sphere blueprints from the community
