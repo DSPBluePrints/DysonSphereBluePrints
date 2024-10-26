@@ -14,18 +14,27 @@
 
 您可以加入交流群并将蓝图上传到群文件，我们将不定时将群文件中的蓝图分类上传到仓库中，如有遗漏可以在群里提醒我们。您也可以通过pull request的形式直接投稿，请根据蓝图功能投稿到最合适的文件夹。<br> You can join the communication group and upload the blueprint to the group file. We will classify and upload the blueprint in the group file to the warehouse from time to time. If there is any omission, you can remind us in the group. You can also submit directly in the form of pull request, please submit to the most appropriate folder according to the blueprint function.
 
-您可以通过这些方式联系我们：<br> You can contact us in these ways:
+除了github，您可以通过这些方式联系我们： (QQ群)  
 
 ```text
-936739864（蓝图仓库维护群）
+936739864 戴森球计划蓝图仓库
+```
 
-949098605（小马蓝图2群）
-342139527（小马蓝图3群）
-611954295（小马蓝图4群）
-914523440（小马蓝图5群）
+```text
+150369431 CIDT学院群
 
-150369431（CIDT学院群）
+914523440 小马蓝图5群
+611954295 小马蓝图4群
+342139527 小马蓝图3群
+949098605 小马蓝图2群
 
+752416362 重装小兔粉丝群
+
+791011229 TTenYX粉丝1群
+908799265 TTenYX粉丝2群
+```
+
+---
 
 ```
 
